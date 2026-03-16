@@ -76,7 +76,7 @@ p.small { margin-top:30px; text-align:center; font-size:0.9em; color:#66fcf1; te
 <canvas id="bg-canvas"></canvas>
 
 <div class="container">
-    <h1>Marthaler Energiemonitor</h1>
+    <h1>Energiemonitor</h1>
 
     <div class="cards">
         <div class="card"><div class="icon">🔌</div><div class="small">Spannung</div><div class="value"><?= $liveData['voltage'] ?? '-' ?> V</div></div>
