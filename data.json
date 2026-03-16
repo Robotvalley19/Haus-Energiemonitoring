@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-03-16 20:45:00",
+  "voltage": 230,
+  "current": 4.13,
+  "power": 900.0,
+  "grid_import": 1234.56,
+  "grid_export": 150.78,
+  "grid_import_tarif1": 800.12,
+  "grid_import_tarif2": 434.44,
+  "grid_export_tarif1": 100.50,
+  "grid_export_tarif2": 50.28
+}
